@@ -20,5 +20,6 @@
 <h2>1 - Tela de recepção ao usuário - Home</h2>
 <p>Esta tela faz a apresentação do produto ao usuário e visa coletar os dados e armazená-los em banco de dados.</p>
 
-<img align="center" width="50%" src="">
+<img align="center" width="50%" src="https://github.com/heloisasdosanjos/PAGINA-DE-CAPTURA/blob/master/images/readmeimg.png">
 </div>
+
